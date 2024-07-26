@@ -13,7 +13,8 @@ LambdaDynamoAPI es un proyecto que implementa una REST API utilizando AWS Lambda
 
 ## Arquitectura
 
-![Arquitectura](path/to/architecture_diagram.png) <!-- Puedes incluir un diagrama de arquitectura si tienes uno -->
+![image](https://github.com/user-attachments/assets/6df68431-08a7-431e-a022-9be4429be809)
+
 
 - **AWS Lambda**: Función que maneja las solicitudes HTTP.
 - **API Gateway**: Expone los endpoints REST.
@@ -21,6 +22,7 @@ LambdaDynamoAPI es un proyecto que implementa una REST API utilizando AWS Lambda
 
 
 ## Endpoints
+https://izr4mrkrg4.execute-api.us-east-2.amazonaws.com/items
 
 | Método | Endpoint        | Descripción                 |
 |--------|-----------------|-----------------------------|
