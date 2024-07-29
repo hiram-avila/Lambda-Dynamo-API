@@ -1,4 +1,4 @@
-﻿# LambdaDynamoAPI
+﻿# API REST | Lambda + DynamoDB 
 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
