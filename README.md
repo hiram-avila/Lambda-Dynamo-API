@@ -1,4 +1,4 @@
-﻿# API REST | Lambda + DynamoDB 
+﻿# Microservices Serverless | Lambda + DynamoDB 
 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
@@ -9,11 +9,10 @@
 
 ## Descripción
 
-LambdaDynamoAPI es un proyecto que implementa una REST API utilizando AWS Lambda y API Gateway. La API permite realizar operaciones CRUD en una tabla de DynamoDB, proporcionando una solución backend escalable y rentable.
+Proyecto que implementa una REST API utilizando AWS Lambda y API Gateway. La API permite realizar operaciones CRUD en una tabla de DynamoDB, proporcionando una solución backend escalable y rentable.
 
 ## Arquitectura
-
-![image](https://github.com/user-attachments/assets/6df68431-08a7-431e-a022-9be4429be809)
+![image](https://github.com/user-attachments/assets/c0123ad7-eb10-4abd-89bc-a60ad7624b4b)
 
 
 - **AWS Lambda**: Función que maneja las solicitudes HTTP.
