@@ -29,6 +29,5 @@ https://izr4mrkrg4.execute-api.us-east-2.amazonaws.com/items
 | GET    | /items          | Obtiene todos los ítems     |
 | GET    | /items/{id}     | Obtiene un ítem por ID      |
 | POST   | /items          | Crea un nuevo ítem          |
-| PUT    | /items/{id}     | Actualiza un ítem existente |
 | DELETE | /items/{id}     | Elimina un ítem por ID      |
 
